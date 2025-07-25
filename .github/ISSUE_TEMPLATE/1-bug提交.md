@@ -1,7 +1,7 @@
 ---
-name: Bug提交
+name: 1-Bug提交
 about: 提交客户端存在相关的bug/漏洞
-title: ''
+title: "[Bug] "
 labels: 'Status: New, Type: bug'
 assignees: ''
 
