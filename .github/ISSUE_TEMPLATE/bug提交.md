@@ -2,7 +2,7 @@
 name: Bug提交
 about: 提交客户端存在相关的bug/漏洞
 title: ''
-labels: ''
+labels: 'Status: New, Type: bug'
 assignees: ''
 
 ---
